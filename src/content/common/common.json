@@ -1,0 +1,30 @@
+{
+    "name": "Shireen Bhardwaj",
+    "logoType": {
+        "mobile": "SB",
+        "desktop": "Shireen Bhardwaj"
+    },
+    "mainPicture": "/assets/sb.svg",
+    "mainPictureJPG": "/assets/sb.svg",
+    "pronunciation": "/She-Reen Bhar-duh-waj/",
+    "audioFile": "/assets/Name-sb.mp3",
+    "cssVarPrefix": "sb",
+    "email": "shireensb1997@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shireen-bhardwaj/",
+    "github": "https://github.com/shireenbhardwaj",
+    "resume": "https://drive.google.com/file/d/1H8BgpZ5t8whS9e4QlZHJU97dppMyTPoN/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/shireen-bhardwaj/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/shireenbhardwaj"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:shireensb1997@gmail.com"
+        }
+    ]
+}

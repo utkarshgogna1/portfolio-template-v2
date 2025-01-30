@@ -1,0 +1,135 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Northeastern University",
+            "degree": "Master of Science in Business Analytics",
+            "duration": "Sept 2023 - Dec 2024",
+            "content": [
+                "GPA: 3.7/4",
+                "Courses: Data Mining and Machine Learning, Business Strategy, Data Visualisation , Marketing Analytics"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Kalinga Institute of Industrial Technology",
+            "degree": "Bachelors in Mechanical Engineering",
+            "duration": "Jul 2015 - Apr 2019",
+            "content": [
+                "GPA: 8.39/10",
+                "Courses: Statistics, Probability, Economics, Optimization, Linear Algebra, Financial Institutions and Markets, Agile Management"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "Northeastern University",
+            "position": "Graduate Teaching Assistant",
+            "duration": "Apr 2024 - Jul 2024",
+            "description": [
+                "Guided 121 PwC analysts in leveraging Tableau and Power BI for complex data visualizations, supporting the successful execution of 100+ finance projects."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "HighRadius Corporation",
+            "position": "Enterprise Manager - Account Based Marketing Analytics",
+            "duration": "Feb 2022 - Jun 2023",
+            "description": [
+                "Led a 12-member team to research and analyze market trends and create Tableau dashboards for visualizing key business metrics, delivering data-driven insights that drove a 128% year-over-year growth in sales opportunities.",
+                "Conducted ad hoc data analysis to support sales leaders; presented actionable insights in weekly business reviews that drove data-driven decision-making.",
+                "Established new Service Level Agreements (SLAs) by analyzing service performance metrics and identifying gaps; collaborated with cross-functional stakeholders to set realistic targets, improving staff work-life balance by 20%.",
+                "Introduced a gamification tool for global sales teams, integrating with Salesforce CRM to gather key data and shape a data-driven strategy, resulting in a 20% boost in productivity."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "HighRadius Corporation",
+            "position": "Team Lead - Account Based Marketing Analytics",
+            "duration": "Feb 2021 - Jan 2022",
+            "description": [
+                "Launched automated Salesforce CRM reporting tools that streamlined the tracking of key performance indicators (KPIs), resulting in a 30% reduction in reporting time and enabling greater focus on strategic initiatives.",
+                "Improved process workflows by creating comprehensive playbooks, streamlining operations and standardizing best practices; this resulted in a 30% increase in efficiency and a reduction in new-member onboarding time by 40%.",
+                "Analyzed 100,000+ customer interactions and campaign touchpoints on Salesforce, delivering insights that optimized marketing strategies and improved lead conversion rates by 20%."
+            ]
+        },
+        {
+            "id": "exp-4",
+            "company": "HighRadius Corporation",
+            "position": "Senior Marketing Analyst",
+            "duration": "Apr 2019 - Jan 2021",
+            "description": [
+                "Designed a dynamic Google Sheets performance tracking dashboard, improving global team motivation and increasing sales opportunities by 8%.",
+                "Collaborated with sellers and cross-functional partners across Sales Ops and Product Marketing to identify stagnant sales opportunities and curate impactful strategies."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Analysis & Visualization Tools",
+            "tools": [
+                "Power BI",
+                "Tableau",
+                "Microsoft Excel",
+                "Looker",
+                "Visio",
+                "Alteryx",
+                "Google Analytics",
+                "Jira"
+            ]
+        },
+        {
+            "title": "Programming Languages",
+            "tools": [
+                "Python",
+                "SQL",
+                "R",
+                "SAS",
+                "SPSS"
+            ]
+        },
+        {
+            "title": "Database and CRM Systems",
+            "tools": [
+                "Snowflake",
+                "Salesforce.com",
+                "Apache Airflow",
+                "Hubspot",
+                "Microsoft SQL Server",
+                "Marketo"
+            ]
+        },
+        {
+            "title": "Soft Skills",
+            "tools": [
+                "Problem-solving",
+                "Communication",
+                "Presentation",
+                "Storytelling",
+                "Leadership",
+                "Critical thinking",
+                "Change Management"
+            ]
+        },
+        {
+            "title": "Certifications",
+            "tools": [
+                "Atlassian Agile Project Management Professional Certificate (JIRA)",
+                "Google Data Analytics Certificate"
+            ]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}

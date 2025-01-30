@@ -1,0 +1,58 @@
+[
+    {
+        "id": "capstone-project-linxup",
+        "title": "Linxup Sales Analysis",
+        "year": "Sep 2024 – Dec 2024",
+        "tags": ["Python", "SQL", "Tableau", "Time Series Analysis"],
+        "description": "Analyzed data from Snowflake across three large datasets using Python and SQL; conducted time series analysis to evaluate monthly revenue fluctuations and customer tenure impact on upsell timing. Built a LightGBM model to predict upsell/churn likelihood by industry; visualized findings in Tableau and delivered actionable recommendations for customer segmentation for targeted marketing strategies and ROI.",
+        "image": "/assets/capstone/linxup.webp",
+        "jpg": "/assets/capstone/linxup.jpeg"
+    },
+    {
+        "id": "capstone-project-ev-gap",
+        "title": "Gap Analysis in Electric Vehicle Charging Infrastructure",
+        "year": "Jan 2024 – Apr 2024",
+        "tags": ["Statistical Analysis", "Python", "Power BI", "Tableau"],
+        "description": "Led a 4-member team to analyze 100,000+ data points; used Python libraries (pandas, numpy, matplotlib, seaborn, scikit-learn) for data cleaning and manipulation, Scipy for hypothesis testing, Statsmodels for linear regression models and forecasting infrastructure demand, and Tableau and Power BI to visualize trends. Delivered data-driven recommendations on state-specific charging station needs to align with EV adoption trends.",
+        "image": "/assets/capstone/ev-gap.webp",
+        "jpg": "/assets/capstone/ev-gap.jpeg"
+    },
+    {
+        "id": "other-project-bank-compare",
+        "title": "Experience Design Anaysis",
+        "year": "Aug 2019 - Dec 2019",
+        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
+        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
+        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
+        "image": "/assets/other-projects/bank.webp",
+        "jpg": "/assets/other-projects/bank.jpeg"
+    },
+    {
+        "id": "other-project-bunder",
+        "title": "Bunder",
+        "year": "Jan 2020 - Apr 2020",
+        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
+        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
+        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
+        "image": "/assets/other-projects/bunder.webp",
+        "jpg": "/assets/other-projects/bunder.jpeg"
+    },
+    {
+        "id": "other-project-suicide-analyzer",
+        "title": "Suicide Analyzer",
+        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
+        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
+        "github": "https://github.com/hrishikeshpaul/whodata",
+        "image": "/assets/other-projects/suicide-analyzer.webp",
+        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
+    },
+    {
+        "id": "other-project-nutricare",
+        "title": "Nutricare",
+        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
+        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
+        "readMore": "https://angel.co/projects/576300-nutricare",
+        "image": "/assets/other-projects/nutricare.webp",
+        "jpg": "/assets/other-projects/nutricare.jpeg"
+    }
+]
