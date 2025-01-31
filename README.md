@@ -1,9 +1,7 @@
 # Portfolio Template 🖐
 > Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML, and SCSS.
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
-
-💻  Live [demo](https://utkarshgogna1.github.io/portfolio-template-v2/)
+💻  Live [demo](https://portfolio-template-v2-three.vercel.app/)
 
 ---
 
@@ -43,19 +41,13 @@ Contributing
 Clone this repo to your local machine.
 Checkout to a new branch. Give it a relevant name!
 Create a pull request.
-Connect
-Website at <a href="https://utkarshgogna1.github.io/" target="_blank">https://utkarshgogna1.github.io/</a>
-LinkedIn at <a href="https://www.linkedin.com/in/utkarshgogna1/" target="_blank">utkarshgogna1</a>
-License
 
-MIT license
-Copyright 2022 © <a href="https://utkarshgogna1.github.io/" target="_blank">Utkarsh Gogna</a>
+
+
 
 ### Summary of Changes:
-1. Updated repository links to `https://github.com/utkarshgogna1/portfolio-template-v2`.
-2.
-3. Updated the website and LinkedIn links to reflect your profile (`utkarshgogna1`).
-4. Updated copyright details to "Utkarsh Gogna".
+1. Updated repository links to https://github.com/utkarshgogna1/portfolio-template-v2 .
+2. Updated copyright details to "Utkarsh Gogna".
 
 Let me know if you need further modifications or if you'd like assistance with anything else!
 
