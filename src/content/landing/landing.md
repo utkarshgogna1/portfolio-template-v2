@@ -1,6 +1,4 @@
-Welcome! 👋
-
-I'm a **Data Analyst & Marketing Strategist** with a passion for turning raw data into actionable insights that drive business decisions. I recently graduated from Northeastern University with an MS in Business Analytics and have 5+ years of experience working in **data analytics**, **marketing strategy**, and **business intelligence** within the Fintech space.
+Welcome! 👋 I'm a **Data Analyst & Marketing Strategist** with a passion for turning raw data into actionable insights that drive business decisions. I recently graduated from Northeastern University with an MS in Business Analytics and have 5+ years of experience working in **data analytics**, **marketing strategy**, and **business intelligence** within the Fintech space.
 
 I'm currently working with:
 
