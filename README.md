@@ -45,10 +45,5 @@ Create a pull request.
 
 
 
-### Summary of Changes:
-1. Updated repository links to https://github.com/utkarshgogna1/portfolio-template-v2 .
-2. Updated copyright details to "Utkarsh Gogna".
-
-Let me know if you need further modifications or if you'd like assistance with anything else!
 
 
