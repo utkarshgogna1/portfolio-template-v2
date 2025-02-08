@@ -21,6 +21,7 @@ interface Props {
     image: string;
     imagePosition: ImagePosition;
     jpg: string;
+    privateRepoNote?: string; 
 }
 
 const ImagePositionLayoutMapper: Record<ImagePosition, "row" | "row-reverse"> = {
@@ -108,7 +109,7 @@ export const FeaturedProjectCard: FC<Props> = ({
                     <Tags tags={tags} id={id} />
                 </Box>
 
-                <ProjectCardFooter readMore={readMore} github={github} demo={demo} />
+                <ProjectCardFooter readMore={readMore} github={github} demo={demo}  />
             </Flex>
 
             <Box

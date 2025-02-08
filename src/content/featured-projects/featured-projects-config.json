@@ -1,64 +1,90 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
-    },
-    {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
-    },
-    {
-        "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
-
+        "id": "featured-project-ai-cybersecurity",
+        "title": "AI-Enhanced Cybersecurity Threat Detector",
+        "year": "2024",
+        "location": "Remote",
+        "demo": "",
+        "readMore":"https://medium.com/@gognautkarsh/ai-enhanced-cybersecurity-threat-detector-7f514c575331",
+        "github": "https://github.com/utkarshgogna1/AI_CyberSecurity_Threat_Detection",
         "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
-            "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
+          "Python",
+          "PyTorch",
+          "Hugging Face",
+          "React.js",
+          "Flask",
+          "AWS",
+          "Deep Learning",
+          "Cybersecurity"
         ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
-    },
+        "description": "Designed a hybrid deep learning model that combines BERT with numerical feature analysis to detect network traffic anomalies with 98% accuracy and 97% F1-score. Developed a scalable pipeline for training, evaluation, and deployment using PyTorch and AWS, and built an interactive dashboard with React.js and Flask for real-time monitoring of cybersecurity threats.",
+        "image": "/assets/featured-projects/ai.png",
+        "jpg": "/assets/featured-projects/ai.png"
+        
+      },
+      {
+        "id": "featured-project-qa-chatbot",
+        "title": "Conversational QA Chatbot for PDF Documents",
+        "year": "2024",
+        "location": "Remote",
+        "demo": "https://docs.google.com/presentation/d/14a8EGnHkyd_nZdSj0g8QDwgP6bWXe8Og/edit?usp=sharing&ouid=112331839385271474890&rtpof=true&sd=true",
+        "github": "https://github.com/utkarshgogna1/NLP_6120_Book_Tutor",
+        "readMore":"https://medium.com/@gognautkarsh/book-tutor-a-conversational-qa-chatbot-for-pdf-documents-f021957eb9f4",
+        "tags": [
+          "Python",
+          "LSTM-CRF",
+          "BERT",
+          "GPT",
+          "PyMuPDF",
+          "FAISS",
+          "NLP",
+          "Chatbot"
+        ],
+        "description": "Developed a conversational QA chatbot that enables users to interact with PDF documents using natural language queries. Integrated a custom LSTM-CRF model for Named Entity Recognition (NER) within a Retrieval-Augmented Generation pipeline utilizing transformer models (BERT and GPT), and implemented efficient document parsing with PyMuPDF and fast similarity searches using FAISS.",
+        "image": "/assets/featured-projects/qa.png",
+        "jpg": "/assets/featured-projects/qa.png"
+      },
+     
+      
     {
-        "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "id": "neat-flappy-bird",
+        "location": "Remote",
+        "title": "NEAT Flappy Bird",
+        "year": "2024",
+        "tags": [
+          "NEAT",
+          "Neural Networks",
+          "Python",
+          "Evolutionary Algorithms",
+          "Game AI",
+          "pygame"
+        ],
+        "description": "Watch a genetic/evolutionary algorithm (NEAT) slowly progress and teach itself to play Flappy Bird! This project uses the NEAT-Python module to evolve a population of neural networks that learn how to navigate the pipes. Each generation spawns multiple birds—each with a slightly different neural network—and the best performers pass on their genes to the next generation, steadily improving the AI's performance.",
+        "github": "https://github.com/utkarshgogna1/Flappy-bird",
+        "readMore":"https://medium.com/@gognautkarsh/evolving-intelligence-neat-and-the-self-learning-flappy-bird-6fcc53edd04f",
+        "image": "/assets/featured-projects/demo.png",
+        "jpg": "/assets/featured-projects/demo.png"
+      },
+      {
+        "id": "featured-project-ime",
+        "title": "IME: Image Manipulation and Enhancement",
+        "year": "2023",
+        "location": "Remote",
+        "tags": [
+          "Java",
+          "Image Processing",
+          "Command Pattern",
+          "Facade Pattern",
+          "CLI",
+          "PPM",
+          "JPEG",
+          "JPG",
+          "Software Design"
+        ],
+        "description": "A command-line image manipulation editor that supports a wide range of operations including blur, sharpen, grayscale, sepia tone, RGB splitting and combining, flipping, brightness adjustment, compression, color correction, histogram generation, and levels adjustment. Built in Java using design patterns such as Command and Facade to ensure modularity and ease of extension.",
+        "github":"https://github.com/shiv810/IME",
+        "readMore":"https://medium.com/@gognautkarsh/building-an-image-manipulation-and-enhancement-tool-with-java-fee7e2058d7a",
+        "image": "/assets/featured-projects/ime.png",
+        "jpg": "/assets/featured-projects/ime.png"
     }
 ]

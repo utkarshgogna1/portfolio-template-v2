@@ -1,11 +1,15 @@
-Welcome! 👋 I'm a **Data Analyst & Marketing Strategist** with a passion for turning raw data into actionable insights that drive business decisions. I recently graduated from Northeastern University with an MS in Business Analytics and have 5+ years of experience working in **data analytics**, **marketing strategy**, and **business intelligence** within the Fintech space.
+A Full Stack Developer currently pursuing a **Master's in Computer Science** at Northeastern University. The idea of solving complex business problems in Web Development, UX Design and Cloud Computing is super enticing to me! Feel free to talk to me about movies and TV shows, creative writing, or your favorite cuisine!
 
-I'm currently working with:
+I'm currently working with :
+- Machine Learning Algorithms
+- RESTful API Development
+- NodeJS & ReactJS
+- MERN Stack
+- HTML/SCSS
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+- Spring MVC
+- SQL Databases
+- RAG and transformer models
 
-- SQL & Python 
-- Tableau & Power BI 
-- Excel & Alteryx 
-- Salesforce & HubSpot 
-- Google Analytics & Marketo 
-
-I love solving complex problems with data, optimizing processes, and making insights not just informative, but impactful. Let’s connect and chat about data, strategy, or the best food spots in town! 🍣🚀
+I have a deep love for data—solving complex problems, optimizing processes, and turning insights into actionable, impactful strategies. When I'm not coding or diving into the latest tech innovations, you can find me chatting about movies, TV shows, creative writing, or discovering the best food spots in town 🍣🚀.

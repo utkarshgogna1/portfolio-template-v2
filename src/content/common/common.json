@@ -1,30 +1,30 @@
 {
-    "name": "Shireen Bhardwaj",
+    "name": "Utkarsh Gogna",
     "logoType": {
-        "mobile": "SB",
-        "desktop": "Shireen Bhardwaj"
+        "mobile": "UG",
+        "desktop": "Utkarsh Gogna"
     },
-    "mainPicture": "/assets/sb.svg",
-    "mainPictureJPG": "/assets/sb.svg",
-    "pronunciation": "/She-Reen Bhar-duh-waj/",
-    "audioFile": "/assets/Name-sb.mp3",
-    "cssVarPrefix": "sb",
-    "email": "shireensb1997@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/shireen-bhardwaj/",
-    "github": "https://github.com/shireenbhardwaj",
-    "resume": "https://drive.google.com/file/d/1H8BgpZ5t8whS9e4QlZHJU97dppMyTPoN/view?usp=sharing",
+    "mainPicture": "/assets/ug.svg",
+    "mainPictureJPG": "/assets/ug.svg",
+    "pronunciation": "/Oot-Kar-sh Gog-na/",
+    "audioFile": "/assets/name-ug.mp3",
+    "cssVarPrefix": "ug",
+    "email": "gogna.u@northeastern.edu",
+    "linkedin": "https://www.linkedin.com/in/utkarsh-gogna",
+    "github": "https://github.com/utkarshgogna1",
+    "resume": "https://drive.google.com/file/d/1ASKGsHDrGVcQHwtkeOIOOuuFjh8ZudMk/view?usp=sharing",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/shireen-bhardwaj/"
+            "link": "https://www.linkedin.com/in/utkarsh-gogna"
         },
         {
             "type": "github",
-            "link": "https://github.com/shireenbhardwaj"
+            "link": "https://github.com/utkarshgogna1"
         },
         {
             "type": "mail",
-            "link": "mailto:shireensb1997@gmail.com"
+            "link": "mailto:gogna.u@northeastern.edu"
         }
     ]
 }
