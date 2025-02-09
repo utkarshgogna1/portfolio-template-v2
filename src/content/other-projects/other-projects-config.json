@@ -26,7 +26,7 @@
         "title": "Number Guesser Neural Network",
         "tags": ["Python", "TensorFlow", "Keras", "Pygame", "Tkinter"],
         "description": "A neural network project using TensorFlow to recognize hand-drawn digits. The model is trained on the MNIST dataset and integrated with an interactive interface built with Pygame and/or Tkinter, allowing users to draw digits (0–9) and get predictions.",
-        "readMore": "",
+        "readMore": "https://medium.com/@gognautkarsh/number-guesser-neural-network-recognizing-hand-drawn-digits-with-deep-learning-264f86499f8f",
 
         "github":"https://github.com/utkarshgogna1/number-guesser",
         "image": "/assets/other-projects/ng.jpg",
@@ -40,7 +40,7 @@
         "year": "N/A",
         "tags": ["Node.js", "JavaScript", "Twitter API", "Automation"],
         "description": "A simple Twitter bot built with Node.js that returns 10 tweets for a specified search query and automatically favorites each tweet.",
-        "readMore": "", 
+        "readMore": "https://medium.com/@gognautkarsh/effortless-twitter-automation-build-your-node-js-bot-cebe3223973a", 
         "github":"https://github.com/utkarshgogna1/twitter-bot",
         "image": "/assets/other-projects/tw.webp",
         "jpg": "/assets/other-projects/tw.png"
