@@ -44,27 +44,6 @@
         "image": "/assets/featured-projects/qa.png",
         "jpg": "/assets/featured-projects/qa.png"
       },
-     
-      
-    {
-        "id": "neat-flappy-bird",
-        "location": "Remote",
-        "title": "NEAT Flappy Bird",
-        "year": "2024",
-        "tags": [
-          "NEAT",
-          "Neural Networks",
-          "Python",
-          "Evolutionary Algorithms",
-          "Game AI",
-          "pygame"
-        ],
-        "description": "Watch a genetic/evolutionary algorithm (NEAT) slowly progress and teach itself to play Flappy Bird! This project uses the NEAT-Python module to evolve a population of neural networks that learn how to navigate the pipes. Each generation spawns multiple birds—each with a slightly different neural network—and the best performers pass on their genes to the next generation, steadily improving the AI's performance.",
-        "github": "https://github.com/utkarshgogna1/Flappy-bird",
-        "readMore":"https://medium.com/@gognautkarsh/evolving-intelligence-neat-and-the-self-learning-flappy-bird-6fcc53edd04f",
-        "image": "/assets/featured-projects/demo.png",
-        "jpg": "/assets/featured-projects/demo.png"
-      },
       {
         "id": "featured-project-ime",
         "title": "IME: Image Manipulation and Enhancement",
@@ -86,5 +65,47 @@
         "readMore":"https://medium.com/@gognautkarsh/building-an-image-manipulation-and-enhancement-tool-with-java-fee7e2058d7a",
         "image": "/assets/featured-projects/ime.png",
         "jpg": "/assets/featured-projects/ime.png"
-    }
+    },
+      {
+        "id": "featured-project-disasterlens",
+        "title": "DisasterLens: Real-Time Disaster Impact Prediction Web App",
+        "year": "2025",
+        "location": "Remote",
+        "tags": [
+          "Python", 
+          "Flask",
+          " Flask-CORS",
+           "Gunicorn", 
+           "Render",
+          "JavaScript",
+          "HTML",
+          "Social Media API",
+          "Weather API"
+        ],
+        "description": "Designed and deployed a Flask-based web application, DisasterLens, to predict the impact of natural disasters using real-time weather data and social media signals. The app provides actionable insights, including impact scores and resource allocation recommendations, to support emergency response planning. Developed a scalable backend API with endpoints for predictions and resource optimization, integrated with a user-friendly frontend, and successfully deployed on Render with automated CI/CD. Overcame deployment challenges such as module path issues, missing dependencies, and CORS configuration to achieve a live, functional application.",
+        "github":"https://github.com/utkarshgogna1/DisasterLens",
+        "readMore":"https://medium.com/@gognautkarsh/building-and-deploying-disasterlens-a-flask-app-for-disaster-impact-prediction-on-render-a882fcb237f3",
+        "image": "/assets/featured-projects/disaster.png",
+        "jpg": "/assets/featured-projects/disaster.png"
+      },
+    {
+        "id": "neat-flappy-bird",
+        "location": "Remote",
+        "title": "NEAT Flappy Bird",
+        "year": "2024",
+        "tags": [
+          "NEAT",
+          "Neural Networks",
+          "Python",
+          "Evolutionary Algorithms",
+          "Game AI",
+          "pygame"
+        ],
+        "description": "Watch a genetic/evolutionary algorithm (NEAT) slowly progress and teach itself to play Flappy Bird! This project uses the NEAT-Python module to evolve a population of neural networks that learn how to navigate the pipes. Each generation spawns multiple birds—each with a slightly different neural network—and the best performers pass on their genes to the next generation, steadily improving the AI's performance.",
+        "github": "https://github.com/utkarshgogna1/Flappy-bird",
+        "readMore":"https://medium.com/@gognautkarsh/evolving-intelligence-neat-and-the-self-learning-flappy-bird-6fcc53edd04f",
+        "image": "/assets/featured-projects/demo.png",
+        "jpg": "/assets/featured-projects/demo.png"
+      }
+     
 ]
