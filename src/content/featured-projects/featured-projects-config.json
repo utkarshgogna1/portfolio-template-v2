@@ -104,8 +104,8 @@
         "description": "Watch a genetic/evolutionary algorithm (NEAT) slowly progress and teach itself to play Flappy Bird! This project uses the NEAT-Python module to evolve a population of neural networks that learn how to navigate the pipes. Each generation spawns multiple birds—each with a slightly different neural network—and the best performers pass on their genes to the next generation, steadily improving the AI's performance.",
         "github": "https://github.com/utkarshgogna1/Flappy-bird",
         "readMore":"https://medium.com/@gognautkarsh/evolving-intelligence-neat-and-the-self-learning-flappy-bird-6fcc53edd04f",
-        "image": "/assets/featured-projects/demo.png",
-        "jpg": "/assets/featured-projects/demo.png"
+        "image": "/assets/featured-projects/Demo.png",
+        "jpg": "/assets/featured-projects/Demo.png"
       }
      
 ]
