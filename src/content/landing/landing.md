@@ -1,4 +1,4 @@
-A Full Stack Developer currently pursuing a **Master's in Computer Science** at Northeastern University. The idea of solving complex business problems in Web Development, UX Design and Cloud Computing is super enticing to me! Feel free to talk to me about movies and TV shows, creative writing, or your favorite cuisine!
+A Full Stack Developer With a **Master's in Computer Science** degree from Northeastern University. The idea of solving complex business problems in Web Development, UX Design and Cloud Computing is super enticing to me! Feel free to talk to me about movies and TV shows, creative writing, or your favorite cuisine!
 
 I'm currently working with :
 - Machine Learning Algorithms
