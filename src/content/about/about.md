@@ -1,4 +1,4 @@
-Hi there! I'm Utkarsh Gogna —a passionate computer science enthusiast based in Boston, MA 🎓. Currently, I'm pursuing my **Master’s in Computer Science** at Northeastern University, where I dive deep into **machine learning, natural language processing, and full-stack development**. I thrive on transforming complex problems into innovative, real-world solutions 🤖🚀.
+Hi there! I'm Utkarsh Gogna —a passionate computer science enthusiast based in Boston, MA 🎓. I recently completed my **Master’s in Computer Science** at Northeastern University, where I focused on **machine learning, natural language processing, and full-stack development**. I thrive on transforming complex problems into innovative, real-world solutions 🤖🚀.
 
 With hands-on experience ranging from **AI-enhanced cybersecurity to developing interactive chatbots**, I've built a solid foundation in multiple programming languages and cutting-edge technologies. Whether mentoring students as a Teaching Assistant or collaborating with industry leaders, I love sharing knowledge and learning something new every day 💻📚.
 
