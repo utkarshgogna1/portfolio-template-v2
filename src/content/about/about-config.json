@@ -33,35 +33,58 @@
           "Coordinated with faculty to develop comprehensive course materials, optimize assessments, and align learning outcomes to ensure an engaging curriculum."
         ]
       },
-      {
+           {
         "id": "exp-2",
-        "company": "Infosys Pvt Ltd",
-        "position": "Systems Engineer - Digital Data AI/ML (Amex)",
-        "duration": "Feb 2022 – July 2023",
+        "company": " CGI Incorp, USA",
+        "position": "Software Developer",
+        "duration": "July2025 – Present",
         "description": [
-          "Achieved a 30% increase in data processing efficiency by designing robust machine learning pipelines using Python and scikit-learn, ensuring scalable production deployment.",
-          "Enhanced cross-functional insight generation by 25% through implementing advanced Natural Language Processing (NLP) solutions for extracting actionable insights from unstructured text.",
-          "Reduced data processing latency by 40% by automating data ingestion and transformation pipelines with Python and AWS S3, accelerating time-to-insight.",
-          "Elevated system capabilities by integrating AI-driven solutions into legacy systems in collaboration with key stakeholders, significantly boosting operational efficiency."
+        " Designed and developed enterprise-grade Java Spring Boot microservices, integrating Kafka, Couchbase, and PostgreSQL to support high-volume healthcare payer transactions.",
+        "Implemented CI/CD pipelines using Jenkins & GitHub Actions, enabling automated multi-environment deployments with a 99.9% deployment success rate.",
+        "Diagnosed production issues using Kibana, and CloudWatch, reducing MTTR by 60% and improving system uptime.",
+        "Collaborated with QA & product owners in Agile ceremonies to deliver features consistently for Fortune 100 healthcare clients.",
+        "Optimized backend services through caching and SQL tuning, improving API performance by 30%."
         ]
       },
       {
         "id": "exp-3",
-        "company": "Sagitec Solutions Pvt Ltd",
-        "position": "Application Developer Intern",
-        "duration": "Feb 2021 – June 2021",
+        "company": "Infosys Pvt Ltd",
+        "position": "Systems Engineer - Digital Data AI/ML (Amex)",
+        "duration": "Feb 2022 – July 2023",
         "description": [
-          "Boosted processing efficiency by 25% by directing data migration to a cloud environment using AWS.",
-          "Enhanced client satisfaction by 30% by developing client-specific applications with Python and RESTful APIs."
+          " Owned lifecycle development of Java/Spring microservices, including schema design, testing, and production rollout.",
+          "Developed and optimized MySQL & Couchbase queries, improving read/write efficiency by 40% across distributed systems.",
+          "Executed ADF jobs using PuTTY, analyzed logs via WinSCP, & troubleshot defects in gold-test environments for banking clients.",
+          " Delivered global localization templates for 15+ countries; performed E2E testing ensuring accuracy across locales.",
+          "Conducted regression & performance testing using Postman/JMeter, preventing high-severity issues before release."
         ]
       },
-      {
+         {
         "id": "exp-4",
+        "company": " Newgen Software, India",
+        "position": "Software Developer",
+        "duration": "Sept 2020 – Jan 2022",
+        "description": [
+          "Built Java Spring Framework applications and REST APIs integrated with Kafka, enabling event-driven workflows for banking & insurance platforms.",
+          "Developed low-code and custom automation templates on Newgen BPM, reducing implementation time by 35%.",
+          "Implemented CI/CD pipelines using Jenkins + Git, cutting deployment time from days to minutes.",
+          "Performed testing across multiple test environments and automated scenarios, delivering zero critical defects to production.",
+          "Supported 8+ major releases by collaborating with cross-functional teams in Agile/Scrum environments.",
+          "Worked with IntelliJ, Postman, Kibana, and Hummingbird for development, API testing, logging, and monitoring."
+        ]
+      },
+        
+     
+      {
+        "id": "exp-5",
         "company": "Sagitec Solutions Pvt Ltd",
         "position": "Intern",
         "duration": "May 2019 – June 2019",
         "description": [
-          "Automated employee payoff calculations and reduced administrative workload by 30% through developing and launching an ETimeTracking portal using JavaScript and React.js."
+          "Automated employee payoff calculations and reduced administrative workload by 30% through developing and launching an ETimeTracking portal using JavaScript and React.js.",
+          "Boosted processing efficiency by 25% by directing data migration to a cloud environment using AWS.",
+          "Enhanced client satisfaction by 30% by developing client-specific applications with Python and RESTful APIs."
+        
         ]
       }
     ],
