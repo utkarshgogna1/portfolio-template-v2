@@ -1,8 +1,4 @@
-# Portfolio Template 🖐
-> Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML, and SCSS.
-
-💻  Live [demo](https://portfolio-template-v2-three.vercel.app/)
-
+# Portfolio Template 
 ---
 
 ## Table of Contents
