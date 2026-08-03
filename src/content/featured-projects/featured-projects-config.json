@@ -1,30 +1,49 @@
 [
     {
-        "id": "featured-project-ai-cybersecurity",
-        "title": "AI-Enhanced Cybersecurity Threat Detector",
-        "year": "2024",
+        "id": "featured-project-chart-llm",
+        "title": "Chart-LLM: Self-Validating LLM Pipeline for Chart Generation",
+        "year": "2025",
         "location": "Remote",
-        "demo": "",
-        "readMore":"https://medium.com/@gognautkarsh/ai-enhanced-cybersecurity-threat-detector-7f514c575331",
-        "github": "https://github.com/utkarshgogna1/AI_CyberSecurity_Threat_Detection",
+        "github": "https://github.com/utkarshgogna1/chart-llm",
         "tags": [
           "Python",
-          "PyTorch",
-          "Hugging Face",
-          "React.js",
-          "Flask",
-          "AWS",
-          "Deep Learning",
-          "Cybersecurity"
+          "LLM",
+          "Llama-3.1-8B",
+          "Llama-3-70B",
+          "Data Validation",
+          "JSON Schema",
+          "Evaluation Harness",
+          "Chart Generation"
         ],
-        "description": "Designed a hybrid deep learning model that combines BERT with numerical feature analysis to detect network traffic anomalies with 98% accuracy and 97% F1-score. Developed a scalable pipeline for training, evaluation, and deployment using PyTorch and AWS, and built an interactive dashboard with React.js and Flask for real-time monitoring of cybersecurity threats.",
-        "image": "/assets/featured-projects/ai.png",
-        "jpg": "/assets/featured-projects/ai.png"
-        
+        "description": "Engineered a 5-stage validation pipeline for LLM-generated charts that detects hallucinated columns, malformed transforms, and schema violations, reducing query failures from 100% to 22% on a 23-query benchmark. Built a comprehensive LLM evaluation harness with 192 unit tests, three model adapters, and JSON-pointer-precise error feedback, enabling accurate benchmarking of validation-loop ROI across complex chart generation tasks. Benchmarked Llama-3.1-8B and Llama-3-70B across baseline and validated modes, quantifying correctness ceilings and validation overhead (~21ms median) for production deployment decisions.",
+        "image": "/assets/featured-projects/chart-llm.png",
+        "jpg": "/assets/featured-projects/chart-llm.png"
+    },
+    {
+        "id": "featured-project-disasterlens",
+        "title": "DisasterLens: Real-Time Disaster Impact Prediction Web App",
+        "year": "2025",
+        "location": "Remote",
+        "tags": [
+          "Python", 
+          "Flask",
+          " Flask-CORS",
+           "Gunicorn", 
+           "Render",
+          "JavaScript",
+          "HTML",
+          "Social Media API",
+          "Weather API"
+        ],
+        "description": "Designed and deployed a Flask-based web application, DisasterLens, to predict the impact of natural disasters using real-time weather data and social media signals. The app provides actionable insights, including impact scores and resource allocation recommendations, to support emergency response planning. Developed a scalable backend API with endpoints for predictions and resource optimization, integrated with a user-friendly frontend, and successfully deployed on Render with automated CI/CD. Overcame deployment challenges such as module path issues, missing dependencies, and CORS configuration to achieve a live, functional application.",
+        "github":"https://github.com/utkarshgogna1/DisasterLens",
+        "readMore":"https://medium.com/@gognautkarsh/building-and-deploying-disasterlens-a-flask-app-for-disaster-impact-prediction-on-render-a882fcb237f3",
+        "image": "/assets/featured-projects/disaster.png",
+        "jpg": "/assets/featured-projects/disaster.png"
       },
       {
         "id": "featured-project-qa-chatbot",
-        "title": "Conversational QA Chatbot for PDF Documents",
+        "title": "Book Tutor: Conversational QA Chatbot for PDF Documents",
         "year": "2024",
         "location": "Remote",
         "demo": "https://docs.google.com/presentation/d/14a8EGnHkyd_nZdSj0g8QDwgP6bWXe8Og/edit?usp=sharing&ouid=112331839385271474890&rtpof=true&sd=true",
@@ -44,6 +63,7 @@
         "image": "/assets/featured-projects/qa.png",
         "jpg": "/assets/featured-projects/qa.png"
       },
+      
       {
         "id": "featured-project-ime",
         "title": "IME: Image Manipulation and Enhancement",
@@ -66,28 +86,31 @@
         "image": "/assets/featured-projects/ime.png",
         "jpg": "/assets/featured-projects/ime.png"
     },
-      {
-        "id": "featured-project-disasterlens",
-        "title": "DisasterLens: Real-Time Disaster Impact Prediction Web App",
-        "year": "2025",
+    
+    {
+        "id": "featured-project-ai-cybersecurity",
+        "title": "AI-Enhanced Cybersecurity Threat Detector",
+        "year": "2024",
         "location": "Remote",
+        "demo": "",
+        "readMore":"https://medium.com/@gognautkarsh/ai-enhanced-cybersecurity-threat-detector-7f514c575331",
+        "github": "https://github.com/utkarshgogna1/AI_CyberSecurity_Threat_Detection",
         "tags": [
-          "Python", 
+          "Python",
+          "PyTorch",
+          "Hugging Face",
+          "React.js",
           "Flask",
-          " Flask-CORS",
-           "Gunicorn", 
-           "Render",
-          "JavaScript",
-          "HTML",
-          "Social Media API",
-          "Weather API"
+          "AWS",
+          "Deep Learning",
+          "Cybersecurity"
         ],
-        "description": "Designed and deployed a Flask-based web application, DisasterLens, to predict the impact of natural disasters using real-time weather data and social media signals. The app provides actionable insights, including impact scores and resource allocation recommendations, to support emergency response planning. Developed a scalable backend API with endpoints for predictions and resource optimization, integrated with a user-friendly frontend, and successfully deployed on Render with automated CI/CD. Overcame deployment challenges such as module path issues, missing dependencies, and CORS configuration to achieve a live, functional application.",
-        "github":"https://github.com/utkarshgogna1/DisasterLens",
-        "readMore":"https://medium.com/@gognautkarsh/building-and-deploying-disasterlens-a-flask-app-for-disaster-impact-prediction-on-render-a882fcb237f3",
-        "image": "/assets/featured-projects/disaster.png",
-        "jpg": "/assets/featured-projects/disaster.png"
+        "description": "Designed a hybrid deep learning model that combines BERT with numerical feature analysis to detect network traffic anomalies with 98% accuracy and 97% F1-score. Developed a scalable pipeline for training, evaluation, and deployment using PyTorch and AWS, and built an interactive dashboard with React.js and Flask for real-time monitoring of cybersecurity threats.",
+        "image": "/assets/featured-projects/ai.png",
+        "jpg": "/assets/featured-projects/ai.png"
+        
       },
+      
     {
         "id": "neat-flappy-bird",
         "location": "Remote",
