@@ -22,8 +22,34 @@
       
     ],
     "experiences": [
-             {
+      {
         "id": "exp-1",
+        "company": "Savvients Inc., USA",
+        "position": "AI Software Engineer",
+        "duration": "Oct 2026 – Present",
+        "description": [
+          "Designed and built a retrieval-augmented incident knowledge system that indexes past incidents, Slack threads, postmortems, and resolution actions, and attaches the three most similar prior incidents and their fixes to each new page.",
+          "Implemented symptom-signature matching using embeddings over alert payloads, error logs, and affected-service metadata, achieving 87% top-3 match accuracy on 150 historical incidents.",
+          "Built an ingestion pipeline that captures the actions that resolved an incident (commands run, rollbacks, merged PRs, config changes) rather than only narrative write-ups, turning tribal knowledge into searchable, structured records.",
+          "Developed an LLM-based generator that drafts runbooks from recurring resolution patterns, and flags incidents where the fix depended on a single engineer's knowledge.",
+          "Integrated with Slack, PagerDuty/Alertmanager webhooks, and a Git provider so context appears inside the on-call workflow without engineers switching tools.",
+          "Evaluated the system against 50 replayed incidents, reducing estimated time-to-first-action by 32% and cutting reliance on the most senior responders for repeat incidents."
+        ]
+      },
+      {
+        "id": "exp-2",
+        "company": "CareMatix Inc., USA",
+        "position": "Artificial Intelligence Intern",
+        "duration": "July 2026 – Sept 2026",
+        "description": [
+          "Built and iterated on a Python-based healthcare RAG application using LangChain, vector embeddings, and LLM APIs, improving clinical-note retrieval relevance by 14% while evaluating usability, response quality, and model behavior.",
+          "Preprocessed and curated 500 remote patient-monitoring records with Pandas and scikit-learn, creating structured ML-ready datasets and validation workflows for rapid model experimentation and evaluation.",
+          "Evaluated patient-risk model performance using precision, recall, and F1 scores, testing hyperparameter configurations and documenting model limitations, supporting responsible AI evaluation and AI governance considerations.",
+          "Partnered with data scientists through 5 iterative development cycles on PyTorch and Hugging Face experiments, contributing to model testing, code reviews, technical discussions, and collaborative AI development."
+        ]
+      },
+             {
+        "id": "exp-3",
         "company": " XRSI, USA",
         "position": "Software Developer",
         "duration": "July2025 – June 2026",
@@ -35,7 +61,7 @@
         ]
       },
       {
-        "id": "exp-2",
+        "id": "exp-4",
         "company": "Northeastern University",
         "position": "Teaching Assistant – Machine Learning",
         "duration": "Sept 2024 – May 2025",
@@ -48,7 +74,7 @@
       },
 
       {
-        "id": "exp-3",
+        "id": "exp-5",
         "company": "Infosys Pvt Ltd",
         "position": "Systems Engineer - Digital Data AI/ML (Client: American Express )",
         "duration": "Feb 2022 – July 2023",
@@ -60,24 +86,10 @@
           "Conducted regression & performance testing using Postman/JMeter, preventing high-severity issues before release."
         ]
       },
-         {
-        "id": "exp-4",
-        "company": " Newgen Software, India",
-        "position": "Software Developer",
-        "duration": "Sept 2020 – Jan 2022",
-        "description": [
-          "Built Java Spring Framework applications and REST APIs integrated with Kafka, enabling event-driven workflows for banking & insurance platforms.",
-          "Developed low-code and custom automation templates on Newgen BPM, reducing implementation time by 35%.",
-          "Implemented CI/CD pipelines using Jenkins + Git, cutting deployment time from days to minutes.",
-          "Performed testing across multiple test environments and automated scenarios, delivering zero critical defects to production.",
-          "Supported 8+ major releases by collaborating with cross-functional teams in Agile/Scrum environments.",
-          "Worked with IntelliJ, Postman, Kibana, and Hummingbird for development, API testing, logging, and monitoring."
-        ]
-      },
         
      
       {
-        "id": "exp-5",
+        "id": "exp-6",
         "company": "Sagitec Solutions Pvt Ltd",
         "position": "Intern",
         "duration": "May 2019 – June 2019",
@@ -162,17 +174,5 @@
         ]
     }
     
-    ],
-    "blog": [
-        {
-            "id": "blog-1",
-            "title": "A beginner's guide to github",
-            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
-        },
-        {
-            "id": "blog-2",
-            "title": "User Experience Design – A little more than just design",
-            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
-        }
     ]
 }
